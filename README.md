@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bejpark&layout=compact&hide=c%2B%2B,c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bejpark&layout=compact&hide=c%2B%2B)
 
 ![Bejpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=bejpark&show_icons=true&theme=radical)
 
